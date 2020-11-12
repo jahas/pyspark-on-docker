@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/adam/miniconda3/envs/pyspark-env/bin/python",
+    "jupyter.jupyterServerType": "remote"
+}

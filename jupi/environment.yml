@@ -1,0 +1,6 @@
+name: pyspark-env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pyspark=3.0.0
